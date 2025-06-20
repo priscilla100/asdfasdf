@@ -1,8 +1,6 @@
-# Dataset Name: randomized_positive_negative_trace.csv
+# Dataset Name ($\mathbb{DS}_{4}^\mathsf{trace}$): randomized_positive_negative_trace.csv
 
-$\mathbb{DS}_{4}^\mathsf{trace}$
-
-# Dataset source: Derived from $\mathbb{DS}_{1}^\mathsf{tricky}$ using NuSMV Model Checker
+# Dataset source: Derived from using NuSMV Model Checker
 
 # Dataset used for Task: Trace Classification
 

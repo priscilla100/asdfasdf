@@ -1,6 +1,4 @@
-# Dataset Name: wff_data.csv
-
-$\mathbb{DS}_{2}^\mathsf{syntax}$
+# Dataset Name ($\mathbb{DS}_{2}^\mathsf{syntax}$): wff_data.csv
 
 # Dataset source: Synthetically Generated via Context-Free Grammar
 

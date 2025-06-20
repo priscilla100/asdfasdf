@@ -1,6 +1,4 @@
-# Dataset Name: book6_academic_ltl.csv
-
-$\mathbb{DS}_{6}^\mathsf{book}$
+# Dataset Name ($\mathbb{DS}_{6}^\mathsf{book}$): textbook_data.csv
 
 # Dataset source: Curated from Formal Logic and Temporal Logic Textbooks & Academic Sources
 

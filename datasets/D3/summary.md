@@ -1,6 +1,4 @@
-# Dataset Name: nl2pl_finalized.csv
-
-$\mathbb{DS}_{3}^\mathsf{prop}$
+# Dataset Name ($\mathbb{DS}_{3}^\mathsf{prop}$): nl2pl_finalized.csv
 
 # Dataset source: Curated from Textbooks, Real-World Scenarios, and Problem Sets
 

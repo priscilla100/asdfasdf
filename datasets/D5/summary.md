@@ -1,6 +1,4 @@
-# Dataset Name: past_ltl.csv
-
-$\mathbb{DS}_{5}^\mathsf{pastltl}$
+# Dataset Name ($\mathbb{DS}_{5}^\mathsf{pastltl}$): past_ltl.csv
 
 # Dataset source: Adapted from $\mathbb{DS}_{1}^\mathsf{tricky}$ (rephrased)
 
