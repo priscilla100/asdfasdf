@@ -1,6 +1,8 @@
 # Dataset Name: nl2ltl_finalized.csv
 
+    
     $\mathbb{DS}_{1}^\mathsf{tricky}$
+    
 
 # Dataset source: Little Tricky Logic Greeman et al. 
 
