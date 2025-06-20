@@ -8,9 +8,9 @@ All prompt templates are defined as Python f-strings (or multi-line strings with
     
 
 ## Full Prompt Templates
-    * **`ZERO_SHOT_PROMPT_TEMPLATE`**: Combines `BASE_INSTRUCTIONS` and `TASK_SPECIFIC_INSTRUCTIONS`.
-    * **`FEW_SHOT_PROMPT_TEMPLATE`**: Combines `BASE_INSTRUCTIONS`, `FEW_SHOT_EXAMPLES`, and `TASK_SPECIFIC_INSTRUCTIONS`.
-    * **`SELF_REFINE_PROMPT_TEMPLATE`**: Combines `BASE_INSTRUCTIONS`, `TASK_SPECIFIC_INSTRUCTIONS`, and includes a placeholder for the LLM's previous response for iterative refinement.
+* **`ZERO_SHOT_PROMPT_TEMPLATE`**: Combines `BASE_INSTRUCTIONS` and `TASK_SPECIFIC_INSTRUCTIONS`.
+* **`FEW_SHOT_PROMPT_TEMPLATE`**: Combines `BASE_INSTRUCTIONS`, `FEW_SHOT_EXAMPLES`, and `TASK_SPECIFIC_INSTRUCTIONS`.
+* **`SELF_REFINE_PROMPT_TEMPLATE`**: Combines `BASE_INSTRUCTIONS`, `TASK_SPECIFIC_INSTRUCTIONS`, and includes a placeholder for the LLM's previous response for iterative refinement.
 
 ## Prompt Files Overview:
 
