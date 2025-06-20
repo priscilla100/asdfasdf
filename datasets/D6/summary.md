@@ -10,7 +10,6 @@
 
 This dataset is a collation of LTL formulas and their natural language descriptions sourced from various textbooks and academic papers on formal logic and temporal logic. It contains natural language statements that often involve complex logical constructs, counterfactuals, necessity/possibility modalities, and real-world causality.
 
-The dataset follows a similar structure to the Future LTL part of $\mathbb{DS}_{1}^\mathsf{tricky}$ and $\mathbb{DS}_{5}^\mathsf{pastltl}$.
 
 The dataset is a comma-separated list of the following triples:
 (natural language, ground truth FutureLTL formula, atomic proposition mapping)
